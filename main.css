@@ -1,0 +1,88 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+A{
+	color:white;
+}
+p1{
+	font: bold 13px Buxton Sketch
+
+}
+h1{
+	font: bold 50px Algerian
+}
+h2{
+	font: bold 45px Algerian
+	
+}
+header, section, footer, aside, nav, article, hgroup{
+	display: block;
+}
+body{
+	text-align: center;
+}
+#everything{
+	max-width:100%;
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	background:-webkit-linear-gradient(top,blue,skyblue,lightblue);
+	-webkit-box-flex:1;
+}
+#web_cover{
+	max-width:70%;
+	margin:2px auto;
+	text-align:left;
+	-webkit-box-orient:vertical;
+	-webkit-box-flex:1;
+}
+
+#d_header{
+	background:purple;
+	border: 2px solid black;
+	padding: 20px;
+	-webkit-box-flex:1;
+	-webkit-border-radius:25px;
+}
+#side_news{
+	background:purple;
+	length:200px;
+	
+	border: 2px solid black;
+	clear:both;
+	float:right;
+}
+#d_nav{
+	background:red;
+	color:white;
+	-webkit-box-flex:1;
+}
+#d_nav li{
+	display:inline-block;
+	list-style:none;
+	padding:5px;
+	font:bold 14px Tahoma ;
+	color:white;
+}
+#d_section{
+	margin:9px auto;
+	text-align:center;
+	-webkit-box-flex:1;
+}
+#d_footer{
+	clear:both;
+	text-align:center;
+	padding:20px;
+	color:white;
+	max-width:100%;
+	background:black;
+	-webkit-box-flex:1;
+	border-top:3px solid green;
+}
+#centertxt{
+	text-align:center;
+}
+#imgptt{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+}

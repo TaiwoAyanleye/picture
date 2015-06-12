@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta HTTP-EQUIV="Refresh" CONTENT="5; URL=file:///C:/Users/Fabobyz/Desktop/picsupload/login.html">
+	<title>login</title>
+	<link rel="stylesheet" href="main2.css">
+</head>
+<body>
+	<div id="everything">
+	<div id="web_cover">
+	<header id="d_header">
+		<h2><img src="images/camera.jpg" alt="image"> DAVE'S PIX SELL<h2>
+		<p1>Helping you build your dreams as a photographer</p1>
+	</header>
+
+	<nav id="d_nav">
+		<ul>
+			<li><A HREF="pixsell.html">HOME</A></li>
+		</ul>
+	</nav>
+	<section id="sign_up">
+
+	</section>
+	<section id="sign_in">
+
+	</section>
+	</div>
+	<footer id="d_footer">
+		COPYRIGHT PIXSELL 2015
+	</footer>
+	</div>
+</body>
+</html>
